@@ -30,6 +30,7 @@
 - https://github.com/zuperzonic1/dffinity-sa-char-viewer
 
 ### Rust
+- https://crates.io/crates/gta-img
 - https://crates.io/crates/rw-parser-rs
 - https://crates.io/crates/gta-ide-parser
 - https://github.com/MexUK/IMGDesk
