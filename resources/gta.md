@@ -11,13 +11,22 @@
 ### C#
 - https://github.com/dexyfex/CodeWalker
 - https://github.com/ahmed605/SparkIV
+- https://github.com/dennisyolkin/gta_gameworld_renderer
+- https://github.com/NanoBob/renderwareio
 
 ### C++
 - https://github.com/gta-reversed/gta-reversed
 - https://github.com/rwengine/openrw
+- https://github.com/novawish/re3
+- https://github.com/aap/librw
+- https://github.com/FrannDzs/Magic.TXD
+- https://github.com/alemariusnexus/gtatools
+- https://github.com/multimaks2/D11_SA
 
 ### Python
 - https://github.com/Parik27/DragonFF
+- https://github.com/X-Seti/Img-Factory-1.6
+- https://github.com/theberrigan/apps/tree/master/projects/18_gta-vc-game-files-parser
 
 ### JS / TS
 - https://github.com/GTAmodding/modelviewjs
@@ -37,3 +46,5 @@
 - https://crates.io/crates/rage-rpf
 - https://crates.io/crates/rpf-archive
 - https://crates.io/crates/rage-package-format
+- https://github.com/cornytrace/rw-rs
+- https://github.com/cornytrace/GTC
