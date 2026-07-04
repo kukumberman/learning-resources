@@ -14,6 +14,8 @@
 - https://google.github.io/comprehensive-rust/
 - https://nnethercote.github.io/perf-book/
 - https://effective-rust.com/title-page.html
+- https://ruststudent.jijobose.com/
+- https://microsoft.github.io/RustTraining/
 
 ## Books
 - https://www.zero2prod.com/
